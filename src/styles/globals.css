@@ -39,12 +39,12 @@
   --sidebar-accent-foreground: oklch(0.205 0 0);
   --sidebar-border: oklch(0.922 0 0);
   --sidebar-ring: oklch(0.708 0 0);
-  
+
   /* Cybersecurity Theme Colors */
-  --navy: #0F172A;
-  --cyan: #38BDF8;
-  --green: #16A34A;
-  --navy-lighter: #1E293B;
+  --navy: #0f172a;
+  --cyan: #38bdf8;
+  --green: #16a34a;
+  --navy-lighter: #1e293b;
   --cyan-glow: rgba(56, 189, 248, 0.5);
   --green-glow: rgba(22, 163, 74, 0.5);
 }
