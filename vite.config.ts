@@ -57,4 +57,5 @@
       port: 3000,
       open: true,
     },
+    base: process.env.NODE_ENV === 'production' ? '/cybersecurity-awareness-landing-page/' : '/',
   });
