@@ -1,6 +1,7 @@
 {
       "name": "Cybersecurity Awareness Landing Page",
       "version": "0.1.0",
+      "homepage": " https://zrncrblln.github.io/cybersecurity-awareness-landing-page/",
       "private": true,
       "dependencies": {
             "@radix-ui/react-accordion": "^1.2.3",
