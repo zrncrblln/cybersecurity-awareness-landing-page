@@ -1,0 +1,1 @@
+- [x] Update README.md with comprehensive content including description, tech stack, installation, development, build, and deployment.
